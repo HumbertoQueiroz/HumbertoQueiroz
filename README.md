@@ -15,7 +15,7 @@ Construo sistemas do banco de dados à interface. Vim do suporte, da infraestrut
 | Projeto | O que é | Código |
 |---|---|---|
 | **App193** 🏆 | Sistema de acionamento de emergências do Corpo de Bombeiros de Campo Verde. O cidadão aciona o socorro pelo celular, com a localização no mapa, e a guarnição despacha as viaturas pelo painel. TCC no IFMT, em equipe de 4, com o **Troféu de Mérito Estudantil** (2025) | [App mobile](https://github.com/HumbertoQueiroz/APP-CBM-CAMPO-VERDE) · [API](https://github.com/HumbertoQueiroz/APPCBM-BackEnd) · [Painel web](https://github.com/HumbertoQueiroz/AppCbmWeb) · [Demo do painel](https://app-cbm-web.vercel.app) |
-| **Portfólio** | Site responsivo feito a partir de um layout do Figma, com carrossel infinito de projetos | [Código](https://github.com/HumbertoQueiroz/HumbertoQueiroz.github.io) · [Site](https://humbertoqueiroz.github.io/) |
+| **Portfólio** | Site responsivo feito a partir de um layout do Figma, com carrossel infinito de projetos | [Código](https://github.com/HumbertoQueiroz/HumbertoQueiroz.github.io) · [Site](https://devhumbertoqueiroz.com.br/) |
 | **Currículo online** | Um currículo em página, para ver o código e o projeto em execução | [Código](https://github.com/HumbertoQueiroz/DevHumbertoQueiroz) · [Site](https://dev-humberto-queiroz.vercel.app/) |
 
 ## Tecnologias
@@ -28,7 +28,7 @@ Construo sistemas do banco de dados à interface. Vim do suporte, da infraestrut
 
 ## Onde me encontrar
 
-- 🌐 Portfólio: [humbertoqueiroz.github.io](https://humbertoqueiroz.github.io/)
+- 🌐 Portfólio: [devhumbertoqueiroz.com.br](https://devhumbertoqueiroz.com.br/)
 - 💼 LinkedIn: [Humberto Queiroz](https://www.linkedin.com/in/humberto-queiroz-37385a1b6)
 - 🧑‍💻 Workana: [meu perfil de freelancer](https://www.workana.com/freelancer/e2326db4301d70101af7d43742cafb11)
 - 📄 Currículo online: [dev-humberto-queiroz.vercel.app](https://dev-humberto-queiroz.vercel.app/)
